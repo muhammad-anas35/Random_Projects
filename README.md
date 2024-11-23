@@ -11,3 +11,6 @@
 ## No 3
 - Third programe print number in the way of lift .
 - - programe progres but it work opposite to  lift process .
+## No 4 
+- Forth programe print Ten random number
+- - Random number practice 

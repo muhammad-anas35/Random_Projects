@@ -9,4 +9,5 @@
 ## No 2
 - Secone programe Double Every number accordance with condition .
 ## No 3
-- Third programe coming soon
+- Third programe print number in the way of lift .
+- - programe progres but it work opposite to  lift process .
